@@ -14,6 +14,6 @@ function check() {
 
     if (w <= 800) {
         red = true;
-        window.location = "https://heeaart.eu/mobile/";
+        window.location = "mobile/index.html";
     }
 }

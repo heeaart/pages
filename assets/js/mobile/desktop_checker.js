@@ -15,6 +15,6 @@ function check() {
 
     if (width > 800) {
         red = true;
-        window.location = "https://heeaart.eu/";
+        window.location = "./index.html";
     }
 }
